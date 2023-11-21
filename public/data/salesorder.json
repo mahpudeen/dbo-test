@@ -1,0 +1,135 @@
+[
+    {
+      "order_code": "SO-00001",
+      "customer": "Budi Santoso",
+      "delivery_date": "2023-05-01",
+      "area": "Jakarta",
+      "total": 5123456,
+      "note": "Pesanan bahan bangunan untuk proyek renovasi.",
+      "status": 1,
+      "id": "1",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00002",
+      "customer": "Siti Rahayu",
+      "delivery_date": "2023-05-02",
+      "area": "Bandung",
+      "total": 7890123,
+      "note": "Pengiriman material konstruksi segera.",
+      "status": 4,
+      "id": "2",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00003",
+      "customer": "Ahmad Yudha",
+      "delivery_date": "2023-05-03",
+      "area": "Surabaya",
+      "total": 2345678,
+      "note": "Catatan penting untuk pengiriman ini.",
+      "status": 3,
+      "id": "3",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00004",
+      "customer": "Dewi Anggraini",
+      "delivery_date": "2023-05-04",
+      "area": "Jakarta",
+      "total": 9876543,
+      "note": "Mohon segera konfirmasi pengiriman.",
+      "status": 1,
+      "id": "4",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00005",
+      "customer": "Rudi Hermawan",
+      "delivery_date": "2023-05-05",
+      "area": "Bandung",
+      "total": 1234567,
+      "note": "Harap kirim dengan ekspedisi tercepat.",
+      "status": 2,
+      "id": "5",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00006",
+      "customer": "Siska Putri",
+      "delivery_date": "2023-05-06",
+      "area": "Surabaya",
+      "total": 8765432,
+      "note": "Urgent! Kirim sesuai jadwal yang ditentukan.",
+      "status": 4,
+      "id": "6",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00007",
+      "customer": "Andi Kurniawan",
+      "delivery_date": "2023-05-07",
+      "area": "Jakarta",
+      "total": 3456789,
+      "note": "Tolong konfirmasi stok barang.",
+      "status": 1,
+      "id": "7",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00008",
+      "customer": "Lina Marwah",
+      "delivery_date": "2023-05-08",
+      "area": "Bandung",
+      "total": 5678901,
+      "note": "Catatan tambahan untuk pengiriman.",
+      "status": 2,
+      "id": "8",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00009",
+      "customer": "Arief Setiawan",
+      "delivery_date": "2023-05-09",
+      "area": "Surabaya",
+      "total": 2345679,
+      "note": "Harap bungkus barang dengan baik.",
+      "status": 3,
+      "id": "9",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00010",
+      "customer": "Yuni Susanti",
+      "delivery_date": "2023-05-10",
+      "area": "Jakarta",
+      "total": 12345678,
+      "note": "Mohon berikan update tracking number.",
+      "status": 1,
+      "id": "10",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00011",
+      "customer": "Hadi Pratama",
+      "delivery_date": "2023-05-11",
+      "area": "Bandung",
+      "total": 78901234,
+      "note": "Pengiriman ke alamat kantor.",
+      "status": 2,
+      "id": "11",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    },
+    {
+      "order_code": "SO-00012",
+      "customer": "Nina Wulandari",
+      "delivery_date": "2023-05-12",
+      "area": "Surabaya",
+      "total": 123456789,
+      "note": "Sesuai pesanan sebelumnya.",
+      "status": 3,
+      "id": "12",
+      "address": "Jl. Raya Bogor Km 30, Cibubur, Jakarta Timur"
+    }
+  ]
+  

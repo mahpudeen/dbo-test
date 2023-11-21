@@ -1,0 +1,123 @@
+[
+    {
+      "order_code": "PO-00001",
+      "supplier": "Gudang Bangunan Sejahtera",
+      "eta_date": "2023-06-01",
+      "warehouse": "Jakarta",
+      "total": 7500000,
+      "note": "Pesanan bahan bangunan untuk proyek konstruksi.",
+      "status": 1,
+      "id": "1"
+    },
+    {
+      "order_code": "PO-00002",
+      "supplier": "Sentosa Material",
+      "eta_date": "2023-06-02",
+      "warehouse": "Bandung",
+      "total": 4800000,
+      "note": "Pengadaan material konstruksi segera.",
+      "status": 2,
+      "id": "2"
+    },
+    {
+      "order_code": "PO-00003",
+      "supplier": "Jaya Lestari Bangunan",
+      "eta_date": "2023-06-03",
+      "warehouse": "Surabaya",
+      "total": 6200000,
+      "note": "Catatan penting untuk pengiriman ini.",
+      "status": 4,
+      "id": "3"
+    },
+    {
+      "order_code": "PO-00004",
+      "supplier": "Toko Bangunan Berkah",
+      "eta_date": "2023-06-04",
+      "warehouse": "Jakarta",
+      "total": 8900000,
+      "note": "Mohon segera konfirmasi pengiriman.",
+      "status": 3,
+      "id": "4"
+    },
+    {
+      "order_code": "PO-00005",
+      "supplier": "Gemilang Abadi Material",
+      "eta_date": "2023-06-05",
+      "warehouse": "Bandung",
+      "total": 5300000,
+      "note": "Harap kirim dengan ekspedisi tercepat.",
+      "status": 3,
+      "id": "5"
+    },
+    {
+      "order_code": "PO-00006",
+      "supplier": "Raja Bangunan Sentosa",
+      "eta_date": "2023-06-06",
+      "warehouse": "Surabaya",
+      "total": 7200000,
+      "note": "Urgent! Kirim sesuai jadwal yang ditentukan.",
+      "status": 2,
+      "id": "6"
+    },
+    {
+      "order_code": "PO-00007",
+      "supplier": "TB Nusantara Jaya Sentosa",
+      "eta_date": "2023-06-07",
+      "warehouse": "Jakarta",
+      "total": 4100000,
+      "note": "Tolong konfirmasi stok barang.",
+      "status": 1,
+      "id": "7"
+    },
+    {
+      "order_code": "PO-00008",
+      "supplier": "Toko Bangunan Jaya",
+      "eta_date": "2023-06-08",
+      "warehouse": "Bandung",
+      "total": 6800000,
+      "note": "Catatan tambahan untuk pengiriman.",
+      "status": 2,
+      "id": "8"
+    },
+    {
+      "order_code": "PO-00009",
+      "supplier": "Raja Material Surabaya",
+      "eta_date": "2023-06-09",
+      "warehouse": "Surabaya",
+      "total": 9200000,
+      "note": "Harap bungkus barang dengan baik.",
+      "status": 4,
+      "id": "9"
+    },
+    {
+      "order_code": "PO-00010",
+      "supplier": "Depo Material Sentosa",
+      "eta_date": "2023-06-10",
+      "warehouse": "Jakarta",
+      "total": 5700000,
+      "note": "Mohon berikan update tracking number.",
+      "status": 1,
+      "id": "10"
+    },
+    {
+      "order_code": "PO-00011",
+      "supplier": "Berkat Toko Bangunan",
+      "eta_date": "2023-06-11",
+      "warehouse": "Bandung",
+      "total": 3400000,
+      "note": "Pengiriman ke alamat kantor.",
+      "status": 3,
+      "id": "11"
+    },
+    {
+      "order_code": "PO-00012",
+      "supplier": "TB Nusantara",
+      "eta_date": "2023-06-12",
+      "warehouse": "Surabaya",
+      "total": 7900000,
+      "note": "Sesuai pesanan sebelumnya.",
+      "status": 1,
+      "id": "12"
+    }
+  ]
+  

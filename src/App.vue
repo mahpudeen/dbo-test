@@ -1,32 +1,29 @@
 <template>
-  <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view/>
-  </div>
+  <v-app id="app">
+    <div v-if="['login'].indexOf($route.name) === -1">
+        <Navbar/>
+    </div>
+    <v-main>
+        <router-view />
+    </v-main>
+  </v-app>
 </template>
-
+<script>
+import Navbar from './components/Navbar.vue'
+export default {
+    name: 'App',
+    components: {
+        Navbar
+    },
+    watch: {
+        '$route' (to, from) {
+            document.title = to.meta.title ? 'Dashboard - '+ to.meta.title : 'DBO' 
+        }
+    },
+}
+</script>
 <style lang="scss">
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+    font-family: Poppins;
 }
 </style>
